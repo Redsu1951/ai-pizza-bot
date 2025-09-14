@@ -17,7 +17,7 @@ A Retrieval-Augmented Generation (RAG) chatbot with a retro **pygame** UI and lo
 - Ollama
 - ChromaDB
 - pygame + OpenCV
-- CUDA acceleration (RTX 3050 GPU)
+- CUDA acceleration (RTX 3050 GPU)(GOD KNOWS WHY I DOESN'T WORK FOR ME THOUGH)
 
 ## ▶️ Run
 ```bash
