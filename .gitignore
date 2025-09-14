@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Data / cache
+*.db
+*.sqlite
+*.csv
+*.mp4
+
+# Ollama / Chroma vector DB
+chrome_langchain_db/
